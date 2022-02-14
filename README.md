@@ -1,6 +1,6 @@
 <h1 align="center">Thiago Saraiva</h1>
 
-<img align="right" alt="GIF" width="400px" src="https://c.tenor.com/AlUkiGkR2j8AAAAM/new-game-ahagon-umiko-programming.gif" />
+<img align="right" alt="GIF" width="300px" src="https://c.tenor.com/AlUkiGkR2j8AAAAM/new-game-ahagon-umiko-programming.gif" />
 
 - 🔭 I’m currently working on **Byju's FutureSchool Brasil**
 - 🌱 I’m currently learning **Flask**
