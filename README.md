@@ -14,4 +14,4 @@
 <a href="https://linkedin.com/in/thiago-saraiva-0739a395" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="thiago-saraiva-0739a395" height="30" width="40" /></a>
 </p>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=thiagosaraiva-git&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+<p align="center"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=thiagosaraiva-git&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" /></p>
