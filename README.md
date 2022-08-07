@@ -1,5 +1,8 @@
-<h1 align="center">Thiago Brasil Saraiva</h1>
-
-
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thiago-brasil-saraiva-0739a395/)](https://www.linkedin.com/in/thiago-brasil-saraiva-0739a395/) 
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:thiagosaraiva.trabalho@gmail.com)](mailto:thiagosaraiva.trabalho@gmail.com)
+<div>
+    <a target='_blank' href="https://www.linkedin.com/in/thiago-brasil-saraiva-0739a395">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+    </a>
+  <a target='_blank' href="mailto:thiagosaraiva.trabalho@gmail.com">
+        <img src="https://img.shields.io/badge/gmail-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+    </a>
+</div>
