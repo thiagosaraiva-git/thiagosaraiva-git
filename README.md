@@ -9,4 +9,4 @@
 
 ## Hello there
 My name is Thiago Brasil Saraiva. I'm 29 years old, I live in São Paulo, Brazil.
-* **Stack**: React, Next, Vite, TypeScript, Python
+* **Stack**: React, Next, Vite, Node.js, TypeScript, Python
