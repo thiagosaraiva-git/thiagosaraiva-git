@@ -13,3 +13,4 @@ Hi, I'm Thiago Brasil Saraiva, a Front End Engineer with 12 years of experience 
 
 As Sun Tzu said in The Art of War, "All warfare is based on deception." Remembering this can help us approach challenges and problem-solving in a strategic way.
 
+<img src=˜https://media.tenor.com/0GcbKtVSr8sAAAAC/geek-laptop.gif˜></img>
