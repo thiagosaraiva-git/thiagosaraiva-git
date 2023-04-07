@@ -9,16 +9,16 @@
 
 <h2>Hello there 👋</h2>
 
-<div style=˜display: flex, justify-content: space-between˜>
-<div style=˜display: inline-block˜>
+<div>
+<div>
 
-<p>Hi, I'm Thiago Brasil Saraiva, a Front End Engineer with 12 years of experience in software development. My primary stack includes React, Typescript, Node.js, Vite, Next, Redux, React Router, Material UI, Chakra UI, Tailwind, and Bootstrap. I also have experience with Python. Check out my projects to see my work!</p>
+Hi, I'm Thiago Brasil Saraiva, a Front End Engineer with 12 years of experience in software development. My primary stack includes React, Typescript, Node.js, Vite, Next, Redux, React Router, Material UI, Chakra UI, Tailwind, and Bootstrap. I also have experience with Python. Check out my projects to see my work!</p>
 
-<p>As Sun Tzu said in The Art of War, "All warfare is based on deception." Remembering this can help us approach challenges and problem-solving in a strategic way.</p>
+<p>As Sun Tzu said in The Art of War, "All warfare is based on deception." Remembering this can help us approach challenges and problem-solving in a strategic way.
 
 </div>
 
-<div style=˜display: inline-block˜>
+<div>
 
 ![geek-laptop](https://user-images.githubusercontent.com/9470353/230686854-1a40b9c6-9c23-4121-8f52-812ba715544a.gif)
 
