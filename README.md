@@ -16,9 +16,8 @@ Hi, I'm Thiago Brasil Saraiva, a Front End Engineer with 12 years of experience 
 
 </div>
 
-<div>
+<p align=˜center˜>
+<img src=˜https://user-images.githubusercontent.com/9470353/230686854-1a40b9c6-9c23-4121-8f52-812ba715544a.gif˜/>
 
-![geek-laptop](https://user-images.githubusercontent.com/9470353/230686854-1a40b9c6-9c23-4121-8f52-812ba715544a.gif)
-
-</div>
+</p>
 </div>
