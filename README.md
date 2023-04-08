@@ -9,15 +9,4 @@
 
 <h2>Hello there 👋</h2>
 
-<div>
-<div>
-
 Hi, I'm Thiago Brasil Saraiva, a Front End Engineer with 12 years of experience in software development. My primary stack includes React, Typescript, Node.js, Vite, Next, Redux, React Router, Material UI, Chakra UI, Tailwind, and Bootstrap. I also have experience with Python. Check out my projects to see my work!
-
-</div>
-
-<p align=˜center˜>
-<img src=˜https://user-images.githubusercontent.com/9470353/230686854-1a40b9c6-9c23-4121-8f52-812ba715544a.gif˜/>
-
-</p>
-</div>
