@@ -9,4 +9,4 @@
 
 <h2>Hello there 👋</h2>
 
-Hi, I'm Thiago Brasil Saraiva, a Front End engineer  with 12 years of experience in web development. My primary stack includes React, Typescript, Node.js, Vite, Next, Redux, React Router, Material UI, Chakra UI, Tailwind, and Bootstrap. I also have experience with Python. Check out my projects to see my work!
+Hi, I'm Thiago Brasil Saraiva, a Front End engineer  with 12+ years of experience in web development. My primary stack includes React, Typescript, Node.js, Vite, Next, Redux, Jotai, React Router, Material UI, Chakra UI, Tailwind, and Bootstrap. I also have experience with Python. Check out my projects to see my work!
