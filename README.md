@@ -1,5 +1,5 @@
 <div>
-    <a target='_blank' href="https://www.linkedin.com/in/thiago-brasilsaraiva">
+    <a target='_blank' href="https://www.linkedin.com/in/thiago-saraiva-react">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
     </a>
   <a target='_blank' href="mailto:thiagosaraiva.trabalho@gmail.com">
